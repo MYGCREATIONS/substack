@@ -37,7 +37,7 @@ describe('Test Suite 1', function() {
         });
 
         it('Length Equals', function() {
-            expect(foo).to.have.lengthOf(3);
+            expect(foo).to.have.lengthOf(2);
 
         });
 
